@@ -40,6 +40,61 @@ _percent_
 
 _ft-lbs_
 
+## Generator F-Terminal Signal
+
+| Field | Contents |
+|-------|----------|
+| TXD   | 6C10F122114D01 |
+| RXF   | 04620511064D   |
+| RXD   | 3008           |
+| MTH   | 001400330000   |
+
+_percent_
+
+## Fuel Level
+
+| Field | Contents |
+|-------|----------|
+| TXD   | 6C10F12212C501 |
+| RXF   | 0462051206C5   |
+| RXD   | 3008           |
+| MTH   | 001400330000   |
+
+_percent_ 
+## Fuel Level
+
+| Field | Contents |
+|-------|----------|
+| TXD   | 6C10F122132A01 |
+| RXF   | 04620513062A   |
+| RXD   | 3016           |
+| MTH   | 000A09770000   |
+
+_Gallons_
+
+## AC High side pressure
+
+| Field | Contents |
+|-------|----------|
+| TXD   | 6C10F122114401 |
+| RXF   | 046205110644   |
+| RXD   | 3008           |
+| MTH   | 000B0006FFF1   |
+
+_psi_
+
+## Oil Pressure
+
+| Field | Contents |
+|-------|----------|
+| TXD   | 6C10F122115C01 |
+| RXF   | 04620511065C   |
+| RXD   | 3008           |
+| MTH   | 003F0064FFF0   |
+
+_psi_
+
+Credit to the [PCM Hammer](https://github.com/PcmHammer/PcmHammer) project for many of these.
 
 ## What does all this mean??
 
