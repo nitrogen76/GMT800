@@ -40,7 +40,7 @@ _percent_
 
 _ft-lbs_
 
-## Generator F-Terminal Signal
+## Generator F-Terminal Signal. (Duty cycle of alternator)
 
 | Field | Contents |
 |-------|----------|
@@ -72,7 +72,9 @@ _percent_
 
 _Gallons_
 
-## AC High side pressure
+## AC High side pressure 
+Should be 2 to 2.5x ambient temp. 
+Should never be below 20psi or above 400, or it'll cut off.
 
 | Field | Contents |
 |-------|----------|
